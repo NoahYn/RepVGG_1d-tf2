@@ -1,6 +1,7 @@
 # RepVGG: Making VGG-style ConvNets Great Again (Tensorflow 2)
 
-##RepVGG 1D version
+## RepVGG 1D version
+
 ### Usage
 ```bash
 git clone https://github.com/NoahYn/RepVGG_1d-tf2.git
