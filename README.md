@@ -1,5 +1,16 @@
 # RepVGG: Making VGG-style ConvNets Great Again (Tensorflow 2)
 
+##RepVGG 1D version
+### Usage
+```bash
+git clone https://github.com/NoahYn/RepVGG_1d-tf2.git
+cd RepVGG_1d-tf2
+pip install -r requirments.txt
+python repvgg_1d.py
+```
+
+---
+
 # TODO: Usage
 
 
