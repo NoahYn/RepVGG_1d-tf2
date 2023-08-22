@@ -39,8 +39,8 @@ print(np.mean((train_y - deploy_y) ** 2))    # Will be around 1e-10
 ```
 
 ## Related works
-* [TensorRT-RepVGG](https://github.com/upczww/TensorRT-RepVGG)
-* [RepVGG](https://github.com/megvii-model/RepVGG)
+* [TensorRT-RepVGG](https://github.com/upczww/TensorRT-RepVGG) 
+* [RepVGG](https://github.com/megvii-model/RepVGG) - pytorch version
 
 ## Reference
 * [RepVGG paper](https://arxiv.org/pdf/2101.03697.pdf)
